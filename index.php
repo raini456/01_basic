@@ -14,7 +14,9 @@
     </head>
     <body>
         <div class="container">
-            <p>Absatz</p>
+            <label>Ansicht
+             <p>Absatz</p>
+            </label>
          <?php
            echo "Hallöle";
          ?>
