@@ -13,7 +13,8 @@
         dann JS JQuery, Bootstrap und eigene-->        
     </head>
     <body>
-        <div class="container">        
+        <div class="container">
+            <p>Absatz</p>
          <?php
            echo "Hallöle";
          ?>
